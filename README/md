@@ -1,0 +1,16 @@
+#Calculator Project
+This project was created as part of my practice.
+##Project Description
+A simple caculator application developed using Java.
+##Technologies Used
+- Java
+- JDK
+- Eclipse
+- Apache NetBeans
+##Features
+- Enter the first number
+- Enter the second number
+- Calculate the result
+- Display the result
+##Purpose
+The purpose of this practice Java programming and learn how to create simple application.
